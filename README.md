@@ -16,7 +16,6 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 ### Before You Begin
 
-1. Create a new repository for this project called `sql-challenge`. **Do not add this homework to an existing repository**.
 
 2. Clone the new repository to your computer.
 
@@ -24,7 +23,6 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 4. Add your files to this folder.
 
-5. Push the above changes to GitHub.
 
 ## Instructions
 
