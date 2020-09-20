@@ -1,7 +1,4 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
---making tables
-
-
 CREATE TABLE "DEPARTMENTS" (
     "dept_no" VARCHAR(30)   NOT NULL,
     "dept_name" VARCHAR(30)   NOT NULL,
