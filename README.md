@@ -15,10 +15,6 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 3. Data Analysis
 
 ### Before You Begin
-
-
-2. Clone the new repository to your computer.
-
 3. Inside your local git repository, create a directory for the SQL challenge. Use a folder name to correspond to the challenge: **EmployeeSQL**.
 
 4. Add your files to this folder.
