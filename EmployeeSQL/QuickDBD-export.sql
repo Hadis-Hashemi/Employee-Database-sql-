@@ -1,5 +1,5 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
-
+--making tables
 
 
 CREATE TABLE "DEPARTMENTS" (
